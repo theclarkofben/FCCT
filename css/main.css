@@ -1,0 +1,22 @@
+body {
+	width: 1366px;
+	height: 5850px;
+	margin: 0 auto;
+}
+
+.placeholder {
+	width: 934px;
+	height: 906px;
+	background: grey;
+	display: block;
+	margin: 150px auto;
+}
+
+.large_standalone_product {
+	margin: 150px 0;
+}
+
+.large_standalone_product > img {
+	margin: 0 auto;
+	display: block;
+}
