@@ -11,7 +11,7 @@ I only allowed myself two hours of working time and as you can see I ran out of 
 
 If I had more time I would have:
 - Added css to declare Arial as global font
-- Added all text to page using appropriate, semantic elements i.e. <h1> for main heading, <p> or <span> for paragraphs/sentences, and being sure to include to nest text inside <a> elements for those that will act as links.
+- Added all text to page using appropriate, semantic elements i.e. < h1 > for main heading, < p > or < span > for paragraphs/sentences, and being sure to include to nest text inside < a > elements for those that will act as links.
 - Positioned all text appropriately using CSS
 - Used jQuery to fade in text in top image with use of $(document).ready() and $(‘#thetext’).fadeIn();
 - Wrapped the images on the page in <a> tags to make them clickable – presumably “clickable” was indicative of them being links. I might be wrong about that assumption?
