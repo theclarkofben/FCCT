@@ -20,12 +20,7 @@ If I had more time I would have:
 - I would have gone over all my code and grouped and commented it all properly. If you look at my other GitHub repos you will see the code is well commented e.g. Feed The Plant Game. It’s something I think is important.
 - I would have experimented with Bootstrap’s CSS to ensure that mobile and tablet had a respectable layout to the best of my abilities. I would do my absolute best in the absence of a design. See my clarkben.com website for how I’ve implemented a mobile layout.
 
-
-Thank you for your time. I hope to hear from you soon. Any feedback would be very welcomed.
-
-Ben
-
-PS: Below I have included the git log for the commits that I did for this code test for your ease of viewing.
+Below I have included the git log for the commits that I did for this code test for your ease of viewing.
 
 commit 12d0da311db5f3f1783453c66091dab4e9a01af1
 Author: Ben Clark <ben@clarkben.com>
