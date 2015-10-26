@@ -27,12 +27,34 @@ h1 + p {
     line-height: 20px;
 }
 
-a {
+h1 + p + a {
 	color: white;
 	position: absolute;
     left: 162px;
     top: 536px;
     letter-spacing: 3px;
+}
+
+#fleeced_coat_product + a {
+	text-align: center;
+	display: block;
+    color: black;
+    margin: 0 0 65px 0;
+}
+
+.shop_category_link > p {
+    font-size: 13px;
+    margin: 0 28px 0 0;
+    word-spacing: 1.0px;
+    color: black;
+}
+
+.shop_category_link > a {
+    font-size: 13px;
+    margin: 58px 0 0 0;
+    word-spacing: 1.0px;
+    color: black;
+    display: block;
 }
 
 .product_text {
