@@ -35,6 +35,15 @@ h1 + p + a {
     letter-spacing: 3px;
 }
 
+.large_masonry_layout > p {
+    margin: 20px 0 0 16px;
+    text-align: left;
+    width: 115px;
+    position: relative;
+    bottom: 682px;
+    right: 1px;
+}
+
 #fleeced_coat_product + a {
 	text-align: center;
 	display: block;
@@ -71,7 +80,7 @@ h1 + p + a {
 	margin: 150px 0;
 }
 
-.large_standalone_product > img {
+.large_standalone_product > a > img {
 	margin: 0 auto;
 	display: block;
 }
@@ -91,10 +100,6 @@ h1 + p + a {
 
 .grid-item {
   float: left;
-}
-
-.grid > img {
-	display: block;
 }
 
 .shop_category_link {
