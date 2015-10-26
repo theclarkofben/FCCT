@@ -1,6 +1,8 @@
 # FCCT
 Hosted page: http://www.clarkben.com/fcct/index.html
 
+(be sure to take a look at the other branch too which is further work I did on this after the test had finished)
+
 I only allowed myself two hours of working time and as you can see I ran out of time. In the time provided I:
 - Assessed the design and chose appropriate technologies (Bootstrap and Isotope + Packery extension)
 - Used Photoshop to extract the images from the mockup as they were not provided (cropped them out individually and measured and noted down pixel dimensions of each and removed text from them).
