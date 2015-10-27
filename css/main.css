@@ -35,13 +35,36 @@ h1 + p + a {
     letter-spacing: 3px;
 }
 
-.large_masonry_layout > p {
+#black_coat_and_leopard_prod_txt {
     margin: 20px 0 0 16px;
     text-align: left;
     width: 115px;
     position: relative;
     bottom: 682px;
     right: 1px;
+}
+
+#black_suit_jacket_prod_txt {
+    text-align: left;
+    width: 115px;
+    position: relative;
+	bottom: 672px;
+    left: 18px;
+    color: black;
+}
+
+
+#black_suit_div {
+	height: 676px;
+    overflow: hidden;
+}
+
+#bottom_shop_category_link_txt {
+	margin: 80px 0 0 35px;
+}
+
+#bottom_shop_category_link {
+    margin: 57px 0 0 35px;
 }
 
 #fleeced_coat_product + a {
